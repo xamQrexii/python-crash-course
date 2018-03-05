@@ -1,0 +1,3 @@
+In Python Scientific Calculation is very easy.
+In Python I've learnt Numpy
+In Python I've learnt Pandas
